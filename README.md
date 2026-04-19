@@ -39,11 +39,7 @@ A modern cryptocurrency dashboard built using React and Vite that provides a cle
 git clone https://github.com/heyridhima/cryptocanvas.git
 cd cryptocanvas
 npm install
-npm run dev
-```
+npm run dev 
 
----
-
-## 👩‍💻 Author
-
+👩‍💻 Author
 Ridhima Sharma
